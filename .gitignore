@@ -10,6 +10,8 @@ node_modules/
 # files
 .env
 *.log
+.pnp
+.pnp.js
 coverage.json
 lerna-debug.log*
 npm-debug.log*
